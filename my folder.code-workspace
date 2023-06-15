@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "my folder",
+			"path": "."
+		},
+		{
+			"name": "imagesAbdi",
+			"path": "../../Downloads/imagesAbdi"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my folder"
+	}
+}
